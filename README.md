@@ -372,4 +372,5 @@ User clicks **"Clear System DB"** to wipe all agent logs, MCP audit trail, and c
 *Built with ❤️ using Node.js, TypeScript, React, Vite, and Express. Powered by the Antigravity IDE.*
 #   O m n i x - A i  
  #   O m n i x - A i  
+ #   O m n i x - A i  
  
