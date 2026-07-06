@@ -1,0 +1,15 @@
+/* App.css - intentionally minimal; all styles are in index.css */
+/* This file exists to prevent import errors from the Vite scaffold */
+
+.animate-spin {
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.text-blue-400 { color: #60a5fa; }
+.text-emerald-400 { color: #34d399; }
+.text-slate-400 { color: #94a3b8; }
