@@ -1,4 +1,4 @@
- <p align="center">
+<p align="center">
   <img src="assets/banner.png" alt="Omnix AI Banner" width="100%">
 </p>
 
@@ -17,9 +17,9 @@ Build • Plan • Learn • Execute • Secure
 ![Forks](https://img.shields.io/github/forks/rudrojushreshta08-sys/Omnix-AI?style=for-the-badge)
 ![Issues](https://img.shields.io/github/issues/rudrojushreshta08-sys/Omnix-AI?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript)
-![Node.js](https://img.shields.io/badge/Node.js-22-green?style=for-the-badge&logo=node.js)
-![Vite](https://img.shields.io/badge/Vite-Latest-646CFF?style=for-the-badge&logo=vite)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
 
 </p>
 
@@ -27,28 +27,28 @@ Build • Plan • Learn • Execute • Secure
 
 # ✨ Overview
 
-**Omnix AI** is an advanced **Multi-Agent Intelligence Workspace** designed to showcase how multiple AI agents can collaborate to solve complex tasks efficiently.
+**Omnix AI** is a next-generation **Multi-Agent Intelligence Workspace** designed to demonstrate how multiple AI agents can work together to solve complex tasks efficiently.
 
-The platform integrates intelligent planning, task optimization, scheduling, workflow automation, secure execution, and study generation into a single, modern dashboard.
+The platform combines intelligent planning, workflow automation, study generation, scheduling, optimization, and secure execution into a unified dashboard. Its modular architecture allows different AI agents to collaborate seamlessly while providing a fast, responsive, and intuitive user experience.
 
-Built with **React**, **TypeScript**, **Vite**, **Node.js**, **Express**, and **Model Context Protocol (MCP)**, Omnix AI provides a scalable, secure, and high-performance AI workspace with a beautiful user interface.
+Developed using **React**, **TypeScript**, **Vite**, **Node.js**, **Express**, and the **Model Context Protocol (MCP)**, Omnix AI showcases modern AI application development with a strong focus on scalability, security, and performance.
 
 ---
 
 # 🚀 Features
 
-- 🤖 Multi-Agent AI System
+- 🤖 Multi-Agent AI Architecture
 - 📋 Intelligent Task Planning
 - 📚 AI Study Assistant
 - 📅 Smart Scheduler
 - ⚡ Workflow Optimization
 - 🔐 MCP Server Integration
-- 🛡️ Secure Sandbox Execution
+- 🛡️ Secure Command Sandbox
 - 📊 Interactive Dashboard
-- 📈 Activity Logs
+- 📈 Real-Time Logs & Monitoring
 - 🌙 Modern Dark Theme
-- 📱 Fully Responsive Design
-- ⚙️ Modular Architecture
+- 📱 Responsive Design
+- ⚙️ Modular & Scalable Architecture
 
 ---
 
@@ -62,7 +62,7 @@ Built with **React**, **TypeScript**, **Vite**, **Node.js**, **Express**, and **
 
 ---
 
-## 📋 Planner
+## 📋 Planner Agent
 
 <p align="center">
 <img src="assets/planner.png" width="90%">
@@ -94,7 +94,7 @@ Built with **React**, **TypeScript**, **Vite**, **Node.js**, **Express**, and **
 
 ---
 
-# 🏗 System Architecture
+# 🏗️ System Architecture
 
 <p align="center">
 <img src="assets/architecture.png" width="95%">
@@ -132,13 +132,13 @@ Built with **React**, **TypeScript**, **Vite**, **Node.js**, **Express**, and **
 - Study Agent
 - Scheduler Agent
 - Optimizer Agent
-- MCP Server
+- Model Context Protocol (MCP)
 
 ### Development Tools
 
 - Git
 - GitHub
-- VS Code
+- Visual Studio Code
 
 ---
 
@@ -158,13 +158,9 @@ Omnix-AI/
 │   └── demo.gif
 │
 ├── frontend/
-│
 ├── src/
-│
 ├── package.json
-│
 ├── tsconfig.json
-│
 └── README.md
 ```
 
@@ -213,84 +209,82 @@ npm run preview
 # 🔄 Multi-Agent Workflow
 
 ```text
-                    User
-                      │
-                      ▼
-              React Dashboard
-                      │
-                      ▼
-              Planner Agent
-                      │
-        ┌─────────────┴─────────────┐
-        ▼                           ▼
- Study Agent                 Optimizer Agent
-        │                           │
-        └─────────────┬─────────────┘
-                      ▼
+                   User
+                     │
+                     ▼
+            React Dashboard
+                     │
+                     ▼
+             Planner Agent
+                     │
+        ┌────────────┴────────────┐
+        ▼                         ▼
+  Study Agent             Optimizer Agent
+        │                         │
+        └────────────┬────────────┘
+                     ▼
               Scheduler Agent
-                      │
-                      ▼
-                 MCP Server
-                      │
-                      ▼
-              Security Engine
-                      │
-                      ▼
-               Final Response
+                     │
+                     ▼
+                MCP Server
+                     │
+                     ▼
+             Security Engine
+                     │
+                     ▼
+              Final Response
 ```
 
 ---
 
-# 🗺 Roadmap
+# 🗺️ Roadmap
 
 ### ✅ Completed
 
-- Multi-Agent AI
+- Multi-Agent AI System
 - Interactive Dashboard
-- MCP Integration
-- Secure Sandbox
 - Planner Agent
 - Study Agent
 - Scheduler
-- Optimizer
+- MCP Server
+- Secure Sandbox
+- Modern UI
 
-### 🚀 Upcoming
+### 🚀 Future Enhancements
 
 - OpenAI Integration
-- Gemini Support
-- Claude Support
+- Gemini Integration
+- Claude Integration
 - Voice Assistant
-- Authentication
 - Long-Term Memory
+- User Authentication
 - Docker Deployment
-- Mobile Application
 - Cloud Synchronization
+- Mobile Application
 
 ---
 
 # 🤝 Contributing
 
-Contributions are always welcome!
+Contributions are always welcome.
 
-1. Fork this repository
-
-2. Create a new branch
-
-3. Commit your changes
-
-4. Submit a Pull Request
+1. Fork the repository.
+2. Create a new feature branch.
+3. Commit your changes.
+4. Push your branch.
+5. Open a Pull Request.
 
 ---
 
 # 📜 License
 
-Licensed under the **MIT License**.
+This project is licensed under the **MIT License**.
 
 ---
 
 # 👩‍💻 Author
 
-## **Shresta**
+## **Shreshta**
 
 **Frontend Developer • AI Enthusiast • Full Stack Developer**
 
@@ -298,7 +292,7 @@ Licensed under the **MIT License**.
 
 <p align="center">
 
-# ❤️ Built with Passion by Shresta
+## ❤️ Built with Passion by Shreshta
 
 ### 🤖 Omnix AI — Building the Future of Multi-Agent Intelligence
 
