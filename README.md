@@ -55,46 +55,11 @@ Developed using **React**, **TypeScript**, **Vite**, **Node.js**, **Express**, a
 # 📸 Screenshots
 
 ## 🏠 Dashboard
+ 
+<img width="805" height="425" alt="Image" src="https://github.com/user-attachments/assets/663ab02b-0f7d-4343-a3ad-5dfe6839f02b" />
 
-<p align="center">
-<img src="assets/dashboard.png" width="90%">
-</p>
-
----
-
-## 📋 Planner Agent
-
-<p align="center">
-<img src="assets/planner.png" width="90%">
-</p>
-
----
-
-## 📚 Study Agent
-
-<p align="center">
-<img src="assets/study-agent.png" width="90%">
-</p>
-
----
-
-## 📅 Scheduler
-
-<p align="center">
-<img src="assets/scheduler.png" width="90%">
-</p>
-
----
-
-## 🛡️ Security Sandbox
-
-<p align="center">
-<img src="assets/security.png" width="90%">
-</p>
-
----
-
-# 🏗️ System Architecture
+<img width="360" height="775" alt="Image" src="https://github.com/user-attachments/assets/ad72fe47-c6fb-4ca9-8a82-5d2884d33832" />a
+ # 🏗️ System Architecture
 
 <img width="1558" height="860" alt="Image" src="https://github.com/user-attachments/assets/b143ae5e-f7ef-4a09-a121-9e51b9dcd3ba" />
 
