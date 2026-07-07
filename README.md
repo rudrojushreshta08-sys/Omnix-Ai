@@ -1,4 +1,4 @@
-<p align="center">
+ <p align="center">
   <img src="assets/banner.png" alt="Omnix AI Banner" width="100%">
 </p>
 
@@ -42,34 +42,34 @@ A modern AI workspace built with React, TypeScript, Vite, and MCP, designed to s
 
 # ✨ Overview
 
-Omnix AI is a next-generation **Multi-Agent Intelligence Workspace** that demonstrates how multiple AI agents can collaborate to solve complex tasks.
+**Omnix AI** is a next-generation **AI-Powered Multi-Agent Intelligence Workspace** designed to demonstrate how multiple AI agents can collaborate to solve complex tasks efficiently.
 
-Unlike traditional AI assistants, Omnix AI coordinates specialized agents responsible for planning, optimization, scheduling, study generation, secure command execution, and workflow automation.
+Instead of relying on a single AI assistant, Omnix AI coordinates multiple intelligent agents responsible for planning, optimization, scheduling, study generation, automation, and secure command execution. Each agent performs a specialized role, enabling a more scalable and efficient workflow.
 
-Built with **React**, **TypeScript**, **Vite**, and a secure **MCP Server**, the platform showcases modern AI application architecture while delivering a fast, responsive, and scalable user experience.
+Built with **React**, **TypeScript**, **Vite**, **Node.js**, and a secure **Model Context Protocol (MCP)** server, the platform delivers a fast, responsive, and modern user experience while showcasing best practices in AI application development.
 
 ---
 
 # 🚀 Features
 
 - 🤖 Multi-Agent Architecture
-- 📅 Smart Planner
+- 📋 Intelligent Task Planning
 - 📚 Study Agent
-- 🗓️ Scheduler
-- ⚡ Optimization Agent
+- 📅 Smart Scheduler
+- ⚡ Workflow Optimization
 - 🔐 Secure MCP Server
-- 🛡️ Security Sandbox
+- 🛡️ Sandboxed Command Execution
 - 📊 Interactive Dashboard
 - 📈 Analytics & Logs
-- 🌙 Modern Dark UI
-- 📱 Responsive Design
-- ⚙️ Modular Architecture
+- 🌙 Modern Dark Theme
+- 📱 Fully Responsive UI
+- ⚙️ Modular & Scalable Architecture
 
 ---
 
 # 🎥 Demo
 
-> 📹 **Project Demo Video**
+### 📹 Project Walkthrough
 
 https://youtu.be/YOUR_VIDEO_LINK
 
@@ -77,39 +77,39 @@ https://youtu.be/YOUR_VIDEO_LINK
 
 # 🌍 Live Demo
 
-**Coming Soon...**
+🚀 **Coming Soon**
 
-Deploy on **Vercel** or **Netlify** and add your live URL here.
+Deploy your application on **Vercel** or **Netlify** and update this section with your live URL.
 
 ---
 
 # 📸 Screenshots
 
-## Dashboard
+## 🏠 Dashboard
 
 ![](assets/dashboard.png)
 
 ---
 
-## Planner
+## 📋 Task Planner
 
 ![](assets/task-manager.png)
 
 ---
 
-## Pomodoro Timer
+## ⏱️ Pomodoro Timer
 
 ![](assets/pomodoro.png)
 
 ---
 
-## Flashcards
+## 📚 Flashcards
 
 ![](assets/flashcards.png)
 
 ---
 
-## Quiz Maker
+## 📝 Quiz Maker
 
 ![](assets/quiz-maker.png)
 
@@ -118,9 +118,15 @@ Deploy on **Vercel** or **Netlify** and add your live URL here.
 # 🏗️ System Architecture
 
 <p align="center">
-
 <img src="assets/architecture.png" width="90%">
+</p>
 
+---
+
+# 🎞️ Demo GIF
+
+<p align="center">
+<img src="assets/demo.gif" width="100%">
 </p>
 
 ---
@@ -140,20 +146,20 @@ Deploy on **Vercel** or **Netlify** and add your live URL here.
 - Node.js
 - Express.js
 
-## AI
+## AI & Infrastructure
 
 - Multi-Agent Architecture
-- MCP Server
-- AI Planner
+- Model Context Protocol (MCP)
+- Planner Agent
 - Study Agent
-- Scheduler
-- Optimizer
+- Scheduler Agent
+- Optimizer Agent
 
-## Tools
+## Development Tools
 
 - Git
 - GitHub
-- VS Code
+- Visual Studio Code
 
 ---
 
@@ -162,11 +168,12 @@ Deploy on **Vercel** or **Netlify** and add your live URL here.
 ```text
 Omnix-AI/
 │
+├── assets/
 ├── frontend/
 ├── src/
-├── assets/
 ├── README.md
 ├── package.json
+├── package-lock.json
 └── tsconfig.json
 ```
 
@@ -174,7 +181,7 @@ Omnix-AI/
 
 # 📥 Installation
 
-### Clone Repository
+## Clone the Repository
 
 ```bash
 git clone https://github.com/rudrojushreshta08-sys/Omnix-AI.git
@@ -184,33 +191,25 @@ git clone https://github.com/rudrojushreshta08-sys/Omnix-AI.git
 cd Omnix-AI
 ```
 
----
-
-### Install Dependencies
+## Install Dependencies
 
 ```bash
 npm install
 ```
 
----
-
-### Start Development Server
+## Start Development Server
 
 ```bash
 npm run dev
 ```
 
----
-
-### Build Project
+## Build for Production
 
 ```bash
 npm run build
 ```
 
----
-
-### Preview Build
+## Preview Production Build
 
 ```bash
 npm run preview
@@ -220,58 +219,56 @@ npm run preview
 
 # 🛡️ Security
 
-- Command Validation
+- Secure Command Validation
 - MCP Tool Verification
-- Secure Execution Sandbox
 - Input Sanitization
-- API Protection
+- Sandboxed Execution
 - Audit Logging
+- API Protection
 
 ---
 
 # 🧠 Multi-Agent Workflow
 
 ```text
-User
-   │
-   ▼
-Frontend (React)
-   │
-   ▼
-Planner Agent
-   │
-   ▼
-Optimization Agent
-   │
-   ▼
-Study Agent
-   │
-   ▼
-Scheduler
-   │
-   ▼
-MCP Server
-   │
-   ▼
-Security Engine
-   │
-   ▼
-Response
+                 User
+                   │
+                   ▼
+          React Frontend
+                   │
+        ┌──────────┴──────────┐
+        ▼                     ▼
+    Planner Agent      Study Agent
+        │                     │
+        └──────────┬──────────┘
+                   ▼
+          Scheduler Agent
+                   │
+                   ▼
+              MCP Server
+                   │
+                   ▼
+           Security Engine
+                   │
+                   ▼
+            Final Response
 ```
 
 ---
 
 # 🗺️ Roadmap
 
-## ✅ Current
+## ✅ Completed
 
 - Multi-Agent System
 - Dashboard
 - Planner
+- Study Agent
 - MCP Server
 - Security Engine
+- Analytics
 
-## 🚧 Coming Soon
+## 🚧 Upcoming
 
 - OpenAI Integration
 - Gemini Integration
@@ -279,19 +276,19 @@ Response
 - AI Memory
 - Voice Assistant
 - Authentication
-- Docker
+- Docker Support
 - Kubernetes
-- Mobile App
 - Cloud Sync
+- Mobile App
 
 ---
 
 # 🤝 Contributing
 
-Contributions are always welcome!
+Contributions are welcome!
 
 1. Fork the repository.
-2. Create a new branch.
+2. Create a feature branch.
 3. Commit your changes.
 4. Push your branch.
 5. Open a Pull Request.
@@ -306,24 +303,24 @@ This project is licensed under the **MIT License**.
 
 # 👨‍💻 Author
 
-## Sai Sathvik
+## Shresta
 
 **Frontend Developer • AI Enthusiast • Full Stack Developer**
 
-GitHub:
+**GitHub**  
 https://github.com/rudrojushreshta08-sys
 
-LinkedIn:
+**LinkedIn**  
 https://linkedin.com/in/YOUR_PROFILE
 
-Portfolio:
+**Portfolio**  
 Coming Soon
 
 ---
 
 # ⭐ Support
 
-If you found this project useful,
+If you found this project helpful:
 
 ⭐ Star the repository
 
@@ -333,384 +330,14 @@ If you found this project useful,
 
 🐞 Report issues
 
-Your support helps improve the project!
+Your support helps improve Omnix AI!
 
 ---
 
 <p align="center">
 
-### 🚀 Built with ❤️ by Sai Sathvik
+## 🚀 Built with ❤️ by Shresta
 
 **Omnix AI — Building the Future of Intelligent Multi-Agent Systems**
-Absolutely! Below is a **complete, polished GitHub README** for your **Omnix AI** project. It includes a hero banner, badges, overview, demo, screenshots, architecture, tech stack, installation, roadmap, contribution guide, author section, and more. Replace the placeholder image paths and links after uploading your assets.
-
-````markdown
-<p align="center">
-  <img src="assets/banner.png" alt="Omnix AI Banner" width="100%">
-</p>
-
-<h1 align="center">🤖 Omnix AI</h1>
-
-<h3 align="center">
-AI-Powered Multi-Agent Intelligence Workspace
-</h3>
-
-<p align="center">
-Build • Plan • Learn • Execute • Secure
-</p>
-
-<p align="center">
-A modern AI workspace built with React, TypeScript, Vite, and MCP, designed to streamline productivity through intelligent multi-agent collaboration.
-</p>
-
-<p align="center">
-
-![License](https://img.shields.io/github/license/rudrojushreshta08-sys/Omnix-AI?style=for-the-badge)
-
-![Stars](https://img.shields.io/github/stars/rudrojushreshta08-sys/Omnix-AI?style=for-the-badge)
-
-![Forks](https://img.shields.io/github/forks/rudrojushreshta08-sys/Omnix-AI?style=for-the-badge)
-
-![Issues](https://img.shields.io/github/issues/rudrojushreshta08-sys/Omnix-AI?style=for-the-badge)
-
-![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript)
-
-![Vite](https://img.shields.io/badge/Vite-Latest-646CFF?style=for-the-badge&logo=vite)
-
-![Node.js](https://img.shields.io/badge/Node.js-22-green?style=for-the-badge&logo=node.js)
-
-![MCP](https://img.shields.io/badge/MCP-Compatible-success?style=for-the-badge)
-
-</p>
-
----
-
-# ✨ Overview
-
-Omnix AI is a next-generation **Multi-Agent Intelligence Workspace** that demonstrates how multiple AI agents can collaborate to solve complex tasks.
-
-Unlike traditional AI assistants, Omnix AI coordinates specialized agents responsible for planning, optimization, scheduling, study generation, secure command execution, and workflow automation.
-
-Built with **React**, **TypeScript**, **Vite**, and a secure **MCP Server**, the platform showcases modern AI application architecture while delivering a fast, responsive, and scalable user experience.
-
----
-
-# 🚀 Features
-
-- 🤖 Multi-Agent Architecture
-- 📅 Smart Planner
-- 📚 Study Agent
-- 🗓️ Scheduler
-- ⚡ Optimization Agent
-- 🔐 Secure MCP Server
-- 🛡️ Security Sandbox
-- 📊 Interactive Dashboard
-- 📈 Analytics & Logs
-- 🌙 Modern Dark UI
-- 📱 Responsive Design
-- ⚙️ Modular Architecture
-
----
-
-# 🎥 Demo
-
-> 📹 **Project Demo Video**
-
-https://youtu.be/YOUR_VIDEO_LINK
-
----
-
-# 🌍 Live Demo
-
-**Coming Soon...**
-
-Deploy on **Vercel** or **Netlify** and add your live URL here.
-
----
-
-# 📸 Screenshots
-
-## Dashboard
-
-![](assets/dashboard.png)
-
----
-
-## Planner
-
-![](assets/task-manager.png)
-
----
-
-## Pomodoro Timer
-
-![](assets/pomodoro.png)
-
----
-
-## Flashcards
-
-![](assets/flashcards.png)
-
----
-
-## Quiz Maker
-
-![](assets/quiz-maker.png)
-
----
-
-# 🏗️ System Architecture
-
-<p align="center">
-
-<img src="assets/architecture.png" width="90%">
-
-</p>
-
----
-
-# ⚙️ Tech Stack
-
-## Frontend
-
-- React
-- TypeScript
-- Vite
-- HTML5
-- CSS3
-
-## Backend
-
-- Node.js
-- Express.js
-
-## AI
-
-- Multi-Agent Architecture
-- MCP Server
-- AI Planner
-- Study Agent
-- Scheduler
-- Optimizer
-
-## Tools
-
-- Git
-- GitHub
-- VS Code
-
----
-
-# 📂 Project Structure
-
-```text
-Omnix-AI/
-│
-├── frontend/
-├── src/
-├── assets/
-├── README.md
-├── package.json
-└── tsconfig.json
-```
-
----
-
-# 📥 Installation
-
-### Clone Repository
-
-```bash
-git clone https://github.com/rudrojushreshta08-sys/Omnix-AI.git
-```
-
-```bash
-cd Omnix-AI
-```
-
----
-
-### Install Dependencies
-
-```bash
-npm install
-```
-
----
-
-### Start Development Server
-
-```bash
-npm run dev
-```
-
----
-
-### Build Project
-
-```bash
-npm run build
-```
-
----
-
-### Preview Build
-
-```bash
-npm run preview
-```
-
----
-
-# 🛡️ Security
-
-- Command Validation
-- MCP Tool Verification
-- Secure Execution Sandbox
-- Input Sanitization
-- API Protection
-- Audit Logging
-
----
-
-# 🧠 Multi-Agent Workflow
-
-```text
-User
-   │
-   ▼
-Frontend (React)
-   │
-   ▼
-Planner Agent
-   │
-   ▼
-Optimization Agent
-   │
-   ▼
-Study Agent
-   │
-   ▼
-Scheduler
-   │
-   ▼
-MCP Server
-   │
-   ▼
-Security Engine
-   │
-   ▼
-Response
-```
-
----
-
-# 🗺️ Roadmap
-
-## ✅ Current
-
-- Multi-Agent System
-- Dashboard
-- Planner
-- MCP Server
-- Security Engine
-
-## 🚧 Coming Soon
-
-- OpenAI Integration
-- Gemini Integration
-- Claude Support
-- AI Memory
-- Voice Assistant
-- Authentication
-- Docker
-- Kubernetes
-- Mobile App
-- Cloud Sync
-
----
-
-# 🤝 Contributing
-
-Contributions are always welcome!
-
-1. Fork the repository.
-2. Create a new branch.
-3. Commit your changes.
-4. Push your branch.
-5. Open a Pull Request.
-
----
-
-# 📜 License
-
-This project is licensed under the **MIT License**.
-
----
-
-# 👨‍💻 Author
-
-## Sai Sathvik
-
-**Frontend Developer • AI Enthusiast • Full Stack Developer**
-
-GitHub:
-https://github.com/rudrojushreshta08-sys
-
-LinkedIn:
-https://linkedin.com/in/YOUR_PROFILE
-
-Portfolio:
-Coming Soon
-
----
-
-# ⭐ Support
-
-If you found this project useful,
-
-⭐ Star the repository
-
-🍴 Fork the project
-
-💡 Suggest new features
-
-🐞 Report issues
-
-Your support helps improve the project!
-
----
-
-<p align="center">
-
-### 🚀 Built with ❤️ by Sai Sathvik
-
-**Omnix AI — Building the Future of Intelligent Multi-Agent Systems**
-
-</p>
-````
-
-### 📁 Also create this folder structure
-
-```
-assets/
-│
-├── banner.png
-├── social-preview.png
-├── architecture.png
-├── dashboard.png
-├── task-manager.png
-├── pomodoro.png
-├── flashcards.png
-├── quiz-maker.png
-└── demo.gif
-```
-
-Once you add these images, your repository will have the polished look of a professional open-source project.
-
-
 
 </p>
