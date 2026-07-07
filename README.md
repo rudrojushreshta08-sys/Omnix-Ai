@@ -1,38 +1,40 @@
-Your README is already very good. I would make it look like a **GitHub trending/open-source project** by adding a hero banner, badges, screenshots, architecture, demo GIFs, roadmap, and contributor sections. The uploaded README already documents the architecture, agents, MCP server, security engine, APIs, workflow, and setup in detail. 
+<p align="center">
+  <img src="assets/banner.png" alt="Omnix AI Banner" width="100%">
+</p>
 
-Here's a structure that gives it a polished, professional appearance.
+<h1 align="center">🤖 Omnix AI</h1>
 
----
-
-# 🤖 Omnix AI
-
-### **AI-Powered Multi-Agent Intelligence System**
+<h3 align="center">
+AI-Powered Multi-Agent Intelligence Workspace
+</h3>
 
 <p align="center">
+Build • Plan • Learn • Execute • Secure
+</p>
 
-<img src="assets/banner.png" width="100%" alt="Omnix AI Banner"/>
-
+<p align="center">
+A modern AI workspace built with React, TypeScript, Vite, and MCP, designed to streamline productivity through intelligent multi-agent collaboration.
 </p>
 
 <p align="center">
 
-**Build • Plan • Learn • Execute • Secure**
+![License](https://img.shields.io/github/license/rudrojushreshta08-sys/Omnix-AI?style=for-the-badge)
 
-*A production-ready Multi-Agent AI Workspace powered by ADK, MCP, React & TypeScript.*
+![Stars](https://img.shields.io/github/stars/rudrojushreshta08-sys/Omnix-AI?style=for-the-badge)
 
-</p>
+![Forks](https://img.shields.io/github/forks/rudrojushreshta08-sys/Omnix-AI?style=for-the-badge)
 
-<p align="center">
+![Issues](https://img.shields.io/github/issues/rudrojushreshta08-sys/Omnix-AI?style=for-the-badge)
 
-<img src="https://img.shields.io/github/license/USERNAME/omnix-ai">
-<img src="https://img.shields.io/github/stars/USERNAME/omnix-ai">
-<img src="https://img.shields.io/github/forks/USERNAME/omnix-ai">
-<img src="https://img.shields.io/github/issues/USERNAME/omnix-ai">
-<img src="https://img.shields.io/badge/TypeScript-5.x-blue">
-<img src="https://img.shields.io/badge/React-19-61DAFB">
-<img src="https://img.shields.io/badge/Vite-Latest-purple">
-<img src="https://img.shields.io/badge/MCP-Compatible-success">
-<img src="https://img.shields.io/badge/AI-Multi--Agent-blueviolet">
+![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript)
+
+![Vite](https://img.shields.io/badge/Vite-Latest-646CFF?style=for-the-badge&logo=vite)
+
+![Node.js](https://img.shields.io/badge/Node.js-22-green?style=for-the-badge&logo=node.js)
+
+![MCP](https://img.shields.io/badge/MCP-Compatible-success?style=for-the-badge)
 
 </p>
 
@@ -40,244 +42,305 @@ Here's a structure that gives it a polished, professional appearance.
 
 # ✨ Overview
 
-**Omnix AI** is a next-generation **Multi-Agent Intelligence Workspace** that demonstrates how multiple AI agents can collaborate to solve complex tasks.
+Omnix AI is a next-generation **Multi-Agent Intelligence Workspace** that demonstrates how multiple AI agents can collaborate to solve complex tasks.
 
-Instead of relying on a single assistant, Omnix AI uses a coordinated network of intelligent agents responsible for planning, optimization, scheduling, study generation, and secure command execution.
+Unlike traditional AI assistants, Omnix AI coordinates specialized agents responsible for planning, optimization, scheduling, study generation, secure command execution, and workflow automation.
 
-The system combines a modern React dashboard with a secure MCP server, custom ADK architecture, and a sandboxed execution engine, making it an excellent showcase of modern AI application development.
-
----
-
-# 🎥 Demo
-
-| Dashboard  | Multi-Agent Execution |
-| ---------- | --------------------- |
-| Screenshot | GIF                   |
+Built with **React**, **TypeScript**, **Vite**, and a secure **MCP Server**, the platform showcases modern AI application architecture while delivering a fast, responsive, and scalable user experience.
 
 ---
 
 # 🚀 Features
 
-✅ Multi-Agent Architecture
-
-✅ Planner Agent
-
-✅ Study Agent
-
-✅ Scheduler Agent
-
-✅ Optimization Agent
-
-✅ MCP Server
-
-✅ Security Sandbox
-
-✅ CLI Execution
-
-✅ Live Dashboard
-
-✅ Audit Logs
-
-✅ Glassmorphism UI
+- 🤖 Multi-Agent Architecture
+- 📅 Smart Planner
+- 📚 Study Agent
+- 🗓️ Scheduler
+- ⚡ Optimization Agent
+- 🔐 Secure MCP Server
+- 🛡️ Security Sandbox
+- 📊 Interactive Dashboard
+- 📈 Analytics & Logs
+- 🌙 Modern Dark UI
+- 📱 Responsive Design
+- ⚙️ Modular Architecture
 
 ---
 
-# 🖼 Screenshots
+# 🎥 Demo
 
-Dashboard
+> 📹 **Project Demo Video**
 
-Agent Workflow
-
-Study Generator
-
-Calendar
-
-CLI Sandbox
-
-Security Logs
+https://youtu.be/YOUR_VIDEO_LINK
 
 ---
 
-# ⚡ Tech Stack
+# 🌍 Live Demo
 
-Frontend
+**Coming Soon...**
 
-* React
-* Vite
-* TypeScript
-* CSS
-
-Backend
-
-* Node.js
-* Express
-* MCP Server
-
-AI
-
-* Custom ADK
-* Multi-Agent Architecture
-* Planner Agent
-* Study Agent
-* Scheduler Agent
-* Optimization Agent
+Deploy on **Vercel** or **Netlify** and add your live URL here.
 
 ---
 
-# 🏗 System Architecture
+# 📸 Screenshots
 
-(Add your architecture diagram here.)
+## Dashboard
+
+![](assets/dashboard.png)
+
+---
+
+## Planner
+
+![](assets/task-manager.png)
+
+---
+
+## Pomodoro Timer
+
+![](assets/pomodoro.png)
+
+---
+
+## Flashcards
+
+![](assets/flashcards.png)
+
+---
+
+## Quiz Maker
+
+![](assets/quiz-maker.png)
+
+---
+
+# 🏗️ System Architecture
+
+<p align="center">
+
+<img src="assets/architecture.png" width="90%">
+
+</p>
+
+---
+
+# ⚙️ Tech Stack
+
+## Frontend
+
+- React
+- TypeScript
+- Vite
+- HTML5
+- CSS3
+
+## Backend
+
+- Node.js
+- Express.js
+
+## AI
+
+- Multi-Agent Architecture
+- MCP Server
+- AI Planner
+- Study Agent
+- Scheduler
+- Optimizer
+
+## Tools
+
+- Git
+- GitHub
+- VS Code
 
 ---
 
 # 📂 Project Structure
 
-(Keep the existing structure from your README.)
+```text
+Omnix-AI/
+│
+├── frontend/
+├── src/
+├── assets/
+├── README.md
+├── package.json
+└── tsconfig.json
+```
 
 ---
 
-# ⚙ Installation
+# 📥 Installation
+
+### Clone Repository
 
 ```bash
-git clone https://github.com/USERNAME/omnix-ai
+git clone https://github.com/rudrojushreshta08-sys/Omnix-AI.git
+```
 
-cd omnix-ai
+```bash
+cd Omnix-AI
+```
 
+---
+
+### Install Dependencies
+
+```bash
 npm install
-
-npm run init-project
 ```
 
 ---
 
-# ▶ Running
-
-Backend
+### Start Development Server
 
 ```bash
-npm run dev:backend
+npm run dev
 ```
 
-Frontend
+---
+
+### Build Project
 
 ```bash
-npm run dev:frontend
-```
-
-Visit
-
-```
-http://localhost:5173
+npm run build
 ```
 
 ---
 
-# 🔐 Security
+### Preview Build
 
-* Command Whitelisting
-* Injection Protection
-* Path Traversal Detection
-* Payload Validation
-* MCP Tool Validation
-* Audit Logging
+```bash
+npm run preview
+```
 
 ---
 
-# 🧠 AI Agents
+# 🛡️ Security
 
-| Agent     | Responsibility         |
-| --------- | ---------------------- |
-| Planner   | Task decomposition     |
-| Optimizer | Priority optimization  |
-| Study     | Flashcards & summaries |
-| Scheduler | Calendar generation    |
+- Command Validation
+- MCP Tool Verification
+- Secure Execution Sandbox
+- Input Sanitization
+- API Protection
+- Audit Logging
 
 ---
 
-# 📊 Roadmap
+# 🧠 Multi-Agent Workflow
 
-* [x] Multi-Agent System
-* [x] MCP Server
-* [x] Security Sandbox
-* [x] React Dashboard
-* [x] CLI Executor
-* [ ] OpenAI Integration
-* [ ] Gemini Integration
-* [ ] Claude Support
-* [ ] Memory Engine
-* [ ] Voice Assistant
-* [ ] Autonomous Planning
+```text
+User
+   │
+   ▼
+Frontend (React)
+   │
+   ▼
+Planner Agent
+   │
+   ▼
+Optimization Agent
+   │
+   ▼
+Study Agent
+   │
+   ▼
+Scheduler
+   │
+   ▼
+MCP Server
+   │
+   ▼
+Security Engine
+   │
+   ▼
+Response
+```
+
+---
+
+# 🗺️ Roadmap
+
+## ✅ Current
+
+- Multi-Agent System
+- Dashboard
+- Planner
+- MCP Server
+- Security Engine
+
+## 🚧 Coming Soon
+
+- OpenAI Integration
+- Gemini Integration
+- Claude Support
+- AI Memory
+- Voice Assistant
+- Authentication
+- Docker
+- Kubernetes
+- Mobile App
+- Cloud Sync
 
 ---
 
 # 🤝 Contributing
 
-Contributions are welcome.
+Contributions are always welcome!
 
-1. Fork
-2. Create Branch
-3. Commit
-4. Push
-5. Pull Request
+1. Fork the repository.
+2. Create a new branch.
+3. Commit your changes.
+4. Push your branch.
+5. Open a Pull Request.
 
 ---
 
 # 📜 License
 
-MIT License
+This project is licensed under the **MIT License**.
 
 ---
 
 # 👨‍💻 Author
 
-## **Sai Sathvik**
+## Sai Sathvik
 
-Frontend Developer • AI Enthusiast • Full Stack Developer
+**Frontend Developer • AI Enthusiast • Full Stack Developer**
 
 GitHub:
-
-```
-https://github.com/yourusername
-```
+https://github.com/rudrojushreshta08-sys
 
 LinkedIn:
+https://linkedin.com/in/YOUR_PROFILE
 
-```
-https://linkedin.com/in/yourprofile
-```
-
-Email:
-
-```
-youremail@example.com
-```
+Portfolio:
+Coming Soon
 
 ---
 
-# ⭐ Show Your Support
+# ⭐ Support
 
 If you found this project useful,
 
-⭐ Star this repository
+⭐ Star the repository
 
-🍴 Fork it
+🍴 Fork the project
 
-💬 Share feedback
+💡 Suggest new features
 
-🚀 Build amazing things with Omnix AI
+🐞 Report issues
+
+Your support helps improve the project!
 
 ---
 
-### ⭐ My recommendation
+<p align="center">
 
-To make your repository look like a professional open-source project, add:
+### 🚀 Built with ❤️ by Sai Sathvik
 
-* A custom **hero banner** (1920×1080 or 1280×640)
-* A short **demo GIF** showing the UI
-* **Shields.io** badges (stars, forks, license, tech stack)
-* A **system architecture diagram**
-* High-quality **screenshots**
-* A **Live Demo** section (if deployed)
-* GitHub **Social Preview** image (1280×640)
+**Omnix AI — Building the Future of Intelligent Multi-Agent Systems**
 
-These additions make a repository look much more polished and are commonly seen in well-maintained open-source projects.
+</p>
