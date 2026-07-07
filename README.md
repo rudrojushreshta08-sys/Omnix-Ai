@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="assets/banner.png" alt="Omnix AI Banner" width="100%">
-</p>
 
 <h1 align="center">🤖 Omnix AI</h1>
 
