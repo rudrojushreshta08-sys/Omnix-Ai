@@ -96,9 +96,7 @@ Developed using **React**, **TypeScript**, **Vite**, **Node.js**, **Express**, a
 
 # 🏗️ System Architecture
 
-<p align="center">
-<img src="assets/architecture.png" width="95%">
-</p>
+<img width="1558" height="860" alt="Image" src="https://github.com/user-attachments/assets/b143ae5e-f7ef-4a09-a121-9e51b9dcd3ba" />
 
 ---
 
